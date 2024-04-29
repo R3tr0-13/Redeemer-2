@@ -1,7 +1,7 @@
 # Redeemer 2
 🚀 Redeemer 2 - Customizable CoreXY 3D Printer
 
-Welcome to the next phase of our journey in 3D printing innovation with Redeemer 2! 🌟 Utilizing the foundation laid by its predecessor Redeemer 1, Redeemer 2 takes customization and speed to new heights with its CoreXY mechanism and cutting-edge features.
+Welcome to the next phase of my journey in 3D printing innovation with Redeemer 2! 🌟 Utilizing the foundation laid by its predecessor Redeemer 1, Redeemer 2 takes customization and speed to new heights with its CoreXY mechanism and cutting-edge features.
 
 https://github.com/R3tr0-13/Redeemer-2/assets/138707261/819faff7-1d7c-4fbb-ac7b-f2962e885c2d
 
